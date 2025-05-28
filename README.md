@@ -105,6 +105,6 @@ All endpoints are prefixed with `/users`.
 - Data is stored in-memory and will reset on server restart.
 - Easily extendable to use a database (MongoDB, PostgreSQL, etc).
 
-## License
+## Author
 
-ISC
+abdulrahman
